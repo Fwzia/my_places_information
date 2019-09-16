@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/paris"
+        style="@style/CategoryStyle"
+        android:background="@color/category_paris"
+        android:text="PARIS" />
+
+    <TextView
+        android:id="@+id/aswan"
+        style="@style/CategoryStyle"
+        android:background="@color/category_aswan"
+        android:text="ASWAN" />
+
+    <TextView
+        android:id="@+id/dubai"
+        style="@style/CategoryStyle"
+        android:background="@color/category_dubai"
+        android:text="DUBAI" />
+
+</LinearLayout>

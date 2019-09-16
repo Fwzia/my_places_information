@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#FD8E09</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="category_paris">#D81B60</color>
+    <color name="category_dubai">#379237</color>
+    <color name="category_aswan">#16AFCA</color>
+</resources>
