@@ -3,3 +3,4 @@
 This is an android app about my favorite places . It contains several layouts.
 
 Tap the photo to read information about the place.
+Simble Android database project.
